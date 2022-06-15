@@ -91,7 +91,6 @@ make
 ./webbench-1.5/webbench -c 5000 -t 10 http://ip:port/
 ./webbench-1.5/webbench -c 10000 -t 10 http://ip:port/
 ```
-![压力测试]()
 
 * 测试环境: Ubuntu:18.40 cpu:i5-8400 内存:12G 
 * QPS 10000+
